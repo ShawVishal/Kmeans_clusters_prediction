@@ -1,6 +1,5 @@
 # Predict-K-mean-clusters
-
-It is an example of unsupervised machine learning.
+k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters
 
 I wrote detailed comments for easy understanding.
 
